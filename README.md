@@ -1,6 +1,15 @@
-<a href="https://github.com/ashikurzaman01" align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashikurzaman01&langs_count=10&title_color=0891b2&text_color=ec4899&icon_color=0891b2&bg_color=312e81&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
-</a>
+<p align="left">
+  <a href="https://www.github.com/ashikurzaman01" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" />
+  </a>
+  <a href="http://www.instagram.com/mdashikurzaman001" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" alt="Instagram" />
+  </a>
+  <a href="https://www.linkedin.com/in/md-ashikur-zaman-351769293" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" />
+  </a>
+</p>
+
 <image align="right" padding="10px" alt="coding" width="100%" src="https://github.com/AshikurZaman01/Md.-Ashikur-Zaman/blob/main/Untitled%20design.jpg">
 
 <h1 align="center">Hi 👋, I'm Md. Ashikur Zaman</h1>
