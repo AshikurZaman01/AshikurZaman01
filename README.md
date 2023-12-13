@@ -1,10 +1,3 @@
-<b>Skills Bar Chart</b>
-
-![Git](https://img.shields.io/badge/Git-80%25-success?style=flat-square&logo=git&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-75%25-yellow?style=flat-square&logo=javascript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-90%25-orange?style=flat-square&logo=html5&logoColor=white)
-![React](https://img.shields.io/badge/React-85%25-blue?style=flat-square&logo=react&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-80%25-purple?style=flat-square&logo=css3&logoColor=white)
 
 
 
