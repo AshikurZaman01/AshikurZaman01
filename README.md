@@ -1,6 +1,11 @@
-<b>Animated GitHub Contributions</b>
+<b>Skills Bar Chart</b>
 
-![Animated GitHub Contributions](https://github.com/AshikurZaman01/AshikurZaman01/blob/main/github-contribution-animation.gif)
+![Git](https://img.shields.io/badge/Git-80%25-success?style=flat-square&logo=git&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-75%25-yellow?style=flat-square&logo=javascript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-90%25-orange?style=flat-square&logo=html5&logoColor=white)
+![React](https://img.shields.io/badge/React-85%25-blue?style=flat-square&logo=react&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-80%25-purple?style=flat-square&logo=css3&logoColor=white)
+
 
 
 <image align="right" padding="10px" alt="coding" width="100%" src="https://github.com/AshikurZaman01/Md.-Ashikur-Zaman/blob/main/Untitled%20design.jpg">
