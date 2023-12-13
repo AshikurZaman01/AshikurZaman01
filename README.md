@@ -1,9 +1,3 @@
-<b>GitHub Contributions</b>
-
-![GitHub Contributions](https://github.com/AshikurZaman01/AshikurZaman01/raw/main/assets/github-contributions.png)
-
-
-
 <image align="right" padding="10px" alt="coding" width="100%" src="https://github.com/AshikurZaman01/Md.-Ashikur-Zaman/blob/main/Untitled%20design.jpg">
 
 <h1 align="center">Hi 👋, I'm Md. Ashikur Zaman</h1>
