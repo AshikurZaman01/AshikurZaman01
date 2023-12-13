@@ -1,6 +1,7 @@
-<a href="http://www.github.com/ashikurzaman01">
-  <img src="https://github-readme-contributions.vercel.app/api?username=ashikurzaman01&bg_color=312e81&text_color=ec4899&icon_color=0891b2&hide_border=true" alt="GitHub Contributions Graph" />
-</a>
+<b>Animated GitHub Contributions</b>
+
+![Animated GitHub Contributions](https://github.com/AshikurZaman01/AshikurZaman01/blob/main/github-contribution-animation.gif)
+
 
 <image align="right" padding="10px" alt="coding" width="100%" src="https://github.com/AshikurZaman01/Md.-Ashikur-Zaman/blob/main/Untitled%20design.jpg">
 
