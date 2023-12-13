@@ -1,3 +1,16 @@
+<b>Skills Bar Chart</b>
+
+![HTML5](https://img.shields.io/badge/HTML5-90%25-orange?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-85%25-blue?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-80%25-yellow?style=flat-square&logo=javascript&logoColor=white)
+![React](https://img.shields.io/badge/React-75%25-blue?style=flat-square&logo=react&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-70%25-green?style=flat-square&logo=node.js&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-85%25-purple?style=flat-square&logo=figma&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-80%25-green?style=flat-square&logo=mongodb&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-90%25-black?style=flat-square&logo=github&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-75%25-blue?style=flat-square&logo=tailwind-css&logoColor=white)
+
+
 <image align="right" padding="10px" alt="coding" width="100%" src="https://github.com/AshikurZaman01/Md.-Ashikur-Zaman/blob/main/Untitled%20design.jpg">
 
 <h1 align="center">Hi 👋, I'm Md. Ashikur Zaman</h1>
