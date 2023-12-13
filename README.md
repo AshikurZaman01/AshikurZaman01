@@ -1,14 +1,6 @@
-<p align="left">
-  <a href="https://www.github.com/ashikurzaman01" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" />
-  </a>
-  <a href="http://www.instagram.com/mdashikurzaman001" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" alt="Instagram" />
-  </a>
-  <a href="https://www.linkedin.com/in/md-ashikur-zaman-351769293" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" />
-  </a>
-</p>
+<a href="http://www.github.com/ashikurzaman01">
+  <img src="https://github-readme-contributions.vercel.app/api?username=ashikurzaman01&bg_color=312e81&text_color=ec4899&icon_color=0891b2&hide_border=true" alt="GitHub Contributions Graph" />
+</a>
 
 <image align="right" padding="10px" alt="coding" width="100%" src="https://github.com/AshikurZaman01/Md.-Ashikur-Zaman/blob/main/Untitled%20design.jpg">
 
