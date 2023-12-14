@@ -51,7 +51,9 @@ Greetings! 👋 I'm passionate front-end developer and recent Computer Science g
 
 <b>My GitHub Stats</b>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashikurzaman01&show_icons=true&locale=en&layout=compact" alt="ashikurzaman01" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashikurzaman01&show_icons=true&locale=en" alt="ashikurzaman01" /></p>
 
 
 <a href="http://www.github.com/ashikurzaman01"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ashikurzaman01&stroke=ec4899&background=312e81&ring=0891b2&fire=0891b2&currStreakNum=ec4899&currStreakLabel=0891b2&sideNums=ec4899&sideLabels=ec4899&dates=ec4899&hide_border=true" /></a>
