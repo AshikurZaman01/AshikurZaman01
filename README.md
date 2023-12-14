@@ -1,6 +1,6 @@
 
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
 
 
 <image align="right" padding="10px" alt="coding" width="100%" src="https://github.com/AshikurZaman01/Md.-Ashikur-Zaman/blob/main/Untitled%20design.jpg">
@@ -14,6 +14,7 @@ Greetings! 👋 I'm passionate front-end developer and recent Computer Science g
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashikurzaman01&label=Profile%20views&color=0e75b6&style=flat" alt="ashikurzaman01" /> </p>
 
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 * 🌍  I'm based in Khulna, Bangladesh
 * ✉️  You can contact me at [ashikurzaman774@gmail.com](mailto:ashikurzaman774@gmail.com)
 * 🚀  I'm currently working on [Youtube Clone App](http://https://github.com/AshikurZaman01/Youtube-clone)
