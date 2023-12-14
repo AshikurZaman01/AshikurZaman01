@@ -58,7 +58,7 @@ Greetings! 👋 I'm passionate front-end developer and recent Computer Science g
 <a href="http://www.github.com/ashikurzaman01"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ashikurzaman01&stroke=ec4899&background=312e81&ring=0891b2&fire=0891b2&currStreakNum=ec4899&currStreakLabel=0891b2&sideNums=ec4899&sideLabels=ec4899&dates=ec4899&hide_border=true" /></a>
 
 ## My Github Contributions
-![Snake animation](https://github.com/ashikurzaman01/ashikurzaman01/blob/output/github-contribution-grib-snake.svg)
+![Snake animation](https://github.com/ashikurzaman01/ashikurzaman01/blob/output/github-contribution-grid-snake.svg)
 
 
 <b>Top Repositories</b>
