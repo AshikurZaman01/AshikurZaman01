@@ -12,9 +12,10 @@ Font-End Web Developer
 
 Greetings! 👋 I'm passionate front-end developer and recent Computer Science graduate (Class of 2022). With over a year immersed in the world of web development, I've honed my skills to craft visually stunning and functional websites. As a Programming Hero student, I'm dedicated to mastering the art of coding. I thrive on challenges and adore the process of turning ideas into seamless user experiences. My love for code knows no bounds, and I aspire to evolve into a full-stack developer. Join me on my coding journey as I continue to explore the limitless possibilities of the digital realm! 💻✨ #CodeEnthusiast #WebDeveloper #FullStackAspirant
 
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashikurzaman01&label=Profile%20views&color=0e75b6&style=flat" alt="ashikurzaman01" /> </p>
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
 * 🌍  I'm based in Khulna, Bangladesh
 * ✉️  You can contact me at [ashikurzaman774@gmail.com](mailto:ashikurzaman774@gmail.com)
 * 🚀  I'm currently working on [Youtube Clone App](http://https://github.com/AshikurZaman01/Youtube-clone)
