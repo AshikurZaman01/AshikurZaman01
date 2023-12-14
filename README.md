@@ -8,7 +8,7 @@
 
 <h1 align="center">Hi 👋, I'm Md. Ashikur Zaman</h1>
   
-Font-End Web Developer
+Junior Font-End Web Developer
 ----------------------
 
 Greetings! 👋 I'm passionate front-end developer and recent Computer Science graduate (Class of 2022). With over a year immersed in the world of web development, I've honed my skills to craft visually stunning and functional websites. As a Programming Hero student, I'm dedicated to mastering the art of coding. I thrive on challenges and adore the process of turning ideas into seamless user experiences. My love for code knows no bounds, and I aspire to evolve into a full-stack developer. Join me on my coding journey as I continue to explore the limitless possibilities of the digital realm! 💻✨ #CodeEnthusiast #WebDeveloper #FullStackAspirant
@@ -47,7 +47,6 @@ Greetings! 👋 I'm passionate front-end developer and recent Computer Science g
 
 <p align="left"> <a href="https://www.github.com/ashikurzaman01" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/mdashikurzaman001" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/md-ashikur-zaman-351769293" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
-### Badges
 
 <b>My GitHub Stats</b>
 
