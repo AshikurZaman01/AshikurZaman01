@@ -8,7 +8,7 @@
 
 <h1 align="center">Hi 👋, I'm Md. Ashikur Zaman</h1>
   
-Junior Font-End Web Developer
+Font-End Web Developer
 ----------------------
 
 Greetings! 👋 I'm passionate front-end developer and recent Computer Science graduate (Class of 2022). With over a year immersed in the world of web development, I've honed my skills to craft visually stunning and functional websites. As a Programming Hero student, I'm dedicated to mastering the art of coding. I thrive on challenges and adore the process of turning ideas into seamless user experiences. My love for code knows no bounds, and I aspire to evolve into a full-stack developer. Join me on my coding journey as I continue to explore the limitless possibilities of the digital realm! 💻✨ #CodeEnthusiast #WebDeveloper #FullStackAspirant
