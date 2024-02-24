@@ -2,7 +2,7 @@
 <h3 align="center">Front-End Web Developer | Full-Stack Aspirant</h3>
 
 <p align="center">
-  <img src="https://github.com/AshikurZaman01/Md.-Ashikur-Zaman/blob/main/Untitled%20design.jpg" alt="Md. Ashikur Zaman" style="width: 100%;">
+  <img src="https://github.com/AshikurZaman01/Md.-Ashikur-Zaman/blob/main/Untitled%20design.jpg" alt="Md. Ashikur Zaman" style="width: 100%; height : 80%">
 </p>
 
 <p align="center">Passionate front-end developer and recent Computer Science graduate (Class of 2022), dedicated to crafting visually stunning and functional websites. Join me on my coding journey as I continue to explore the limitless possibilities of the digital realm! 💻✨</p>
