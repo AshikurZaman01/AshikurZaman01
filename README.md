@@ -1,70 +1,108 @@
+<h1 align="center">Hi there! 👋 I'm Md. Ashikur Zaman</h1>
+<h3 align="center">Front-End Web Developer | Full-Stack Aspirant</h3>
 
+<p align="center">
+  <img src="https://github.com/AshikurZaman01/Md.-Ashikur-Zaman/blob/main/Untitled%20design.jpg" alt="Md. Ashikur Zaman" width="50%">
+</p>
 
+<p align="center">Passionate front-end developer and recent Computer Science graduate (Class of 2022), dedicated to crafting visually stunning and functional websites. Join me on my coding journey as I continue to explore the limitless possibilities of the digital realm! 💻✨</p>
 
+---
 
+### 🌍 About Me
 
+- 🎓 Computer Science graduate based in Khulna, Bangladesh
+- 📧 Contact me at [ashikurzaman774@gmail.com](mailto:ashikurzaman774@gmail.com)
+- 🚀 Currently working on [Youtube Clone App](http://https://github.com/AshikurZaman01/Youtube-clone)
+- 📚 Learning Next.js and advanced MongoDB
+- 👯 Open to collaborating on E-commerce, Blogs, and Management Web Applications
+- ⚡ Fun fact: I love watching movies and reading books
 
-<image align="right" padding="10px" alt="coding" width="100%" src="https://github.com/AshikurZaman01/Md.-Ashikur-Zaman/blob/main/Untitled%20design.jpg">
+---
 
-<h1 align="center">Hi 👋, I'm Md. Ashikur Zaman</h1>
-  
-Font-End Web Developer
-----------------------
-
-Greetings! 👋 I'm passionate front-end developer and recent Computer Science graduate (Class of 2022). With over a year immersed in the world of web development, I've honed my skills to craft visually stunning and functional websites. As a Programming Hero student, I'm dedicated to mastering the art of coding. I thrive on challenges and adore the process of turning ideas into seamless user experiences. My love for code knows no bounds, and I aspire to evolve into a full-stack developer. Join me on my coding journey as I continue to explore the limitless possibilities of the digital realm! 💻✨ #CodeEnthusiast #WebDeveloper #FullStackAspirant
-
-
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashikurzaman01&label=Profile%20views&color=0e75b6&style=flat" alt="ashikurzaman01" /> </p>
-
-
-* 🌍  I'm based in Khulna, Bangladesh
-* ✉️  You can contact me at [ashikurzaman774@gmail.com](mailto:ashikurzaman774@gmail.com)
-* 🚀  I'm currently working on [Youtube Clone App](http://https://github.com/AshikurZaman01/Youtube-clone)
-* 🧠  I'm learning Next js , MongoDb(adv)
-* 🤝  I'm open to collaborating on Ecommerce , Blog , Manegment Web Application
-* ⚡  I love watching movie and reading books
-
-### Skills
+### 🛠️ Skills
 
 <p align="left">
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a><a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a>
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" width="36" height="36">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" width="36" height="36">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" width="36" height="36">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" width="36" height="36">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" alt="Next.js" width="36" height="36">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" width="36" height="36">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" alt="Tailwind CSS" width="36" height="36">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" alt="Bootstrap" width="36" height="36">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" alt="Material UI" width="36" height="36">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="Node.js" width="36" height="36">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" alt="Express" width="36" height="36">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" alt="MongoDB" width="36" height="36">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" alt="Firebase" width="36" height="36">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" alt="Photoshop" width="36" height="36">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" alt="Figma" width="36" height="36">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" alt="Google Cloud" width="36" height="36">
 </p>
-<b>Skills Bar Chart</b>
 
-![HTML5](https://img.shields.io/badge/HTML5-90%25-orange?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-85%25-blue?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-80%25-yellow?style=flat-square&logo=javascript&logoColor=white)
-![React](https://img.shields.io/badge/React-75%25-blue?style=flat-square&logo=react&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-70%25-green?style=flat-square&logo=node.js&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-85%25-purple?style=flat-square&logo=figma&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-80%25-green?style=flat-square&logo=mongodb&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-90%25-black?style=flat-square&logo=github&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-75%25-blue?style=flat-square&logo=tailwind-css&logoColor=white)
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-90%25-orange?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-85%25-blue?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/JavaScript-80%25-yellow?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript">
+  <img src="https://img.shields.io/badge/React-75%25-blue?style=flat-square&logo=react&logoColor=white" alt="React">
+  <img src="https://img.shields.io/badge/Node.js-70%25-green?style=flat-square&logo=node.js&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/Figma-85%25-purple?style=flat-square&logo=figma&logoColor=white" alt="Figma">
+  <img src="https://img.shields.io/badge/MongoDB-80%25-green?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB">
+  <img src="https://img.shields.io/badge/GitHub-90%25-black?style=flat-square&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-75%25-blue?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
+</p>
 
+---
 
-### Socials
+### 🚀 Socials
 
-<p align="left"> <a href="https://www.github.com/ashikurzaman01" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/mdashikurzaman001" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/md-ashikur-zaman-351769293" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+<p align="left">
+  <a href="https://www.github.com/ashikurzaman01" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" alt="GitHub" width="32" height="32">
+  </a>
+  <a href="http://www.instagram.com/mdashikurzaman001" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" alt="Instagram" width="32" height="32">
+  </a>
+  <a href="https://www.linkedin.com/in/md-ashikur-zaman-351769293" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" alt="LinkedIn" width="32" height="32">
+  </a>
+</p>
 
+---
 
-<b>My GitHub Stats</b>
+### 📊 GitHub Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashikurzaman01&show_icons=true&locale=en&layout=compact" alt="ashikurzaman01" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ashikurzaman01&show_icons=true&locale=en&layout=compact" alt="Top Languages">
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashikurzaman01&show_icons=true&locale=en" alt="ashikurzaman01" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ashikurzaman01&show_icons=true&locale=en" alt="GitHub Stats">
+</p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashikurzaman01&stroke=ec4899&background=312e81&ring=0891b2&fire=0891b2&currStreakNum=ec4899&currStreakLabel=0891b2&sideNums=ec4899&sideLabels=ec4899&dates=ec4899&hide_border=true" alt="GitHub Streak">
+</p>
 
-<a href="http://www.github.com/ashikurzaman01"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ashikurzaman01&stroke=ec4899&background=312e81&ring=0891b2&fire=0891b2&currStreakNum=ec4899&currStreakLabel=0891b2&sideNums=ec4899&sideLabels=ec4899&dates=ec4899&hide_border=true" /></a>
+---
 
-![Snake animation](https://raw.githubusercontent.com/ashikurzaman01/ashikurzaman01/output/github-contribution-grid-snake.svg)
+### 🔝 Top Repositories
 
+<div align="center">
+  <a href="https://github.com/ashikurzaman01/online-marketplace-client">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ashikurzaman01&repo=online-marketplace-client&title_color=0891b2&text_color=ec4899&icon_color=0891b2&bg_color=312e81&hide_border=true&locale=en" alt="Online Marketplace Client" width="45%">
+  </a>
+  <a href="https://github.com/ashikurzaman01/polling_And_survey_app">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ashikurzaman01&repo=polling_And_survey_app&title_color=0891b2&text_color=ec4899&icon_color=0891b2&bg_color=312e81&hide_border=true&locale=en" alt="Polling and Survey App" width="45%">
+  </a>
+</div>
 
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/ashikurzaman01/online-marketplace-client" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ashikurzaman01&repo=online-marketplace-client&title_color=0891b2&text_color=ec4899&icon_color=0891b2&bg_color=312e81&hide_border=true&locale=en" /></a><a href="https://github.com/ashikurzaman01/polling_And_survey_app" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ashikurzaman01&repo=polling_And_survey_app&title_color=0891b2&text_color=ec4899&icon_color=0891b2&bg_color=312e81&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-<br /><br /><br /><br /><br />
-
-<div width="100%" align="center"><a href="https://github.com/ashikurzaman01/react-erazone-client-app" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ashikurzaman01&repo=react-erazone-client-app&title_color=0891b2&text_color=ec4899&icon_color=0891b2&bg_color=312e81&hide_border=true&locale=en" /></a><a href="https://github.com/ashikurzaman01/react-donaton-campaign" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ashikurzaman01&repo=react-donaton-campaign&title_color=0891b2&text_color=ec4899&icon_color=0891b2&bg_color=312e81&hide_border=true&locale=en" /></a></div>
+<div align="center">
+  <a href="https://github.com/ashikurzaman01/react-erazone-client-app">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ashikurzaman01&repo=react-erazone-client-app&title_color=0891b2&text_color=ec4899&icon_color=0891b2&bg_color=312e81&hide_border=true&locale=en" alt="React Erazone Client App" width="45%">
+  </a>
+  <a href="https://github.com/ashikurzaman01/react-donaton-campaign">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ashikurzaman01&repo=react-donaton-campaign&title_color=0891b2&text_color=ec4899&icon_color=0891b2&bg_color=312e81&hide_border=true&locale=en" alt="React Donation Campaign" width="45%">
+  </a>
+</div>
