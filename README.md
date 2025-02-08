@@ -1,143 +1,27 @@
-<h1 align="center">Hi there! 👋 I'm Md. Ashikur Zaman</h1>
-<h3 align="center">Front-End Web Developer | Full-Stack Aspirant</h3>
+# 💫 About Me:
+🔭 I am currently working on Full-Stack Development projects using the MERN stack and Laravel.<br>🤝 I am looking to collaborate on React.js and Node.js projects.<br>🌱 I am currently learning Laravel and Full-Stack Development.<br>💡 I am looking for help with advanced JavaScript concepts and Redux Toolkit best practices.<br>💬 Ask me about React.js, Tailwind CSS, MERN stack, and Redux Toolkit.<br>😄 Fun fact: I’m a CSE graduate who loves solving problems and learning new technologies every day!
 
-<p align="center">
-  <img src="https://github.com/AshikurZaman01/Md.-Ashikur-Zaman/blob/main/Untitled%20design.jpg" alt="Md. Ashikur Zaman" style="width: 100%; height: 50%;">
-</p>
 
-<p align="center">Passionate front-end developer and recent Computer Science graduate (Class of 2022), dedicated to crafting visually stunning and functional websites. Join me on my coding journey as I continue to explore the limitless possibilities of the digital realm! 💻✨</p>
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ashiqurzaman.ashik.7) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/md-ashikur-zaman-351769293) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ashikurzaman774@gmail.com) 
 
----
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Radix UI](https://img.shields.io/badge/radix%20ui-161618.svg?style=for-the-badge&logo=radix-ui&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![SolidJS](https://img.shields.io/badge/SolidJS-2c4f7c?style=for-the-badge&logo=solid&logoColor=c8c9cb) ![Semantic UI React](https://img.shields.io/badge/Semantic%20UI%20React-%2335BDB2.svg?style=for-the-badge&logo=SemanticUIReact&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=AshikurZaman01&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=AshikurZaman01&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AshikurZaman01&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### 🌍 About Me
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=AshikurZaman01&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-- 🎓 Computer Science graduate based in Khulna, Bangladesh
-- 📧 Contact me at [ashikurzaman774@gmail.com](mailto:ashikurzaman774@gmail.com)
-- 🚀 Currently working on [Youtube Clone App](http://https://github.com/AshikurZaman01/Youtube-clone)
-- 📚 Learning Next.js and advanced MongoDB
-- 👯 Open to collaborating on E-commerce, Blogs, and Management Web Applications
-- ⚡ Fun fact: I love watching movies and reading books. My favorite movie series is "The Lord of the Rings" trilogy! 🍿📚
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-
-### 🛠️ Skills
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" width="36" height="36">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" width="36" height="36">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" width="36" height="36">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" width="36" height="36">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" alt="Next.js" width="36" height="36">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" width="36" height="36">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" alt="Tailwind CSS" width="36" height="36">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" alt="Bootstrap" width="36" height="36">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" alt="Material UI" width="36" height="36">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="Node.js" width="36" height="36">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" alt="Express" width="36" height="36">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" alt="MongoDB" width="36" height="36">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" alt="Firebase" width="36" height="36">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" alt="Photoshop" width="36" height="36">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" alt="Figma" width="36" height="36">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" alt="Google Cloud" width="36" height="36">
-</p>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-90%25-orange?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-85%25-blue?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/JavaScript-80%25-yellow?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript">
-  <img src="https://img.shields.io/badge/React-75%25-blue?style=flat-square&logo=react&logoColor=white" alt="React">
-  <img src="https://img.shields.io/badge/Node.js-70%25-green?style=flat-square&logo=node.js&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/Figma-85%25-purple?style=flat-square&logo=figma&logoColor=white" alt="Figma">
-  <img src="https://img.shields.io/badge/MongoDB-80%25-green?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB">
-  <img src="https://img.shields.io/badge/GitHub-90%25-black?style=flat-square&logo=github&logoColor=white" alt="GitHub">
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-75%25-blue?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
-</p>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=AshikurZaman01&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=AshikurZaman01&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### 🚀 Socials
-
-<p align="left">
-  <a href="https://www.github.com/ashikurzaman01" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" alt="GitHub" width="32" height="32">
-  </a>
-  <a href="http://www.instagram.com/mdashikurzaman001" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" alt="Instagram" width="32" height="32">
-  </a>
-  <a href="https://www.linkedin.com/in/md-ashikur-zaman-351769293" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" alt="LinkedIn" width="32" height="32">
-  </a>
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ashikurzaman01&show_icons=true&locale=en&layout=compact" alt="Top Languages">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashikurzaman01&show_icons=true&locale=en" alt="GitHub Stats">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashikurzaman01&stroke=ec4899&background=312e81&ring=0891b2&fire=0891b2&currStreakNum=ec4899&currStreakLabel=0891b2&sideNums=ec4899&sideLabels=ec4899&dates=ec4899&hide_border=true" alt="GitHub Streak">
-</p>
-
----
-
-### 🔝 Top Repositories
-
-<div align="center">
-  <a href="https://github.com/ashikurzaman01/online-marketplace-client">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ashikurzaman01&repo=online-marketplace-client&title_color=0891b2&text_color=ec4899&icon_color=0891b2&bg_color=312e81&hide_border=true&locale=en" alt="Online Marketplace Client" width="45%">
-  </a>
-  <a href="https://github.com/ashikurzaman01/polling_And_survey_app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ashikurzaman01&repo=polling_And_survey_app&title_color=0891b2&text_color=ec4899&icon_color=0891b2&bg_color=312e81&hide_border=true&locale=en" alt="Polling and Survey App" width="45%">
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/ashikurzaman01/react-erazone-client-app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ashikurzaman01&repo=react-erazone-client-app&title_color=0891b2&text_color=ec4899&icon_color=0891b2&bg_color=312e81&hide_border=true&locale=en" alt="React Erazone Client App" width="45%">
-  </a>
-  <a href="https://github.com/ashikurzaman01/react-donaton-campaign">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ashikurzaman01&repo=react-donaton-campaign&title_color=0891b2&text_color=ec4899&icon_color=0891b2&bg_color=312e81&hide_border=true&locale=en" alt="React Donation Campaign" width="45%">
-  </a>
-</div>
-
----
-
-### 🎬 Recent Projects
-
-- **Erazone - E-commerce Platform**:
-  - A full-stack e-commerce platform built with React, Node.js, Express, and MongoDB.
-  - Check it out here: [Erazone](https://github.com/ashikurzaman01/react-erazone-client-app)
-
-- **SurveyMaster - Polling and Survey App**:
-  - Developed a real-time polling and survey application using React and Firebase.
-  - Explore the code here: [SurveyMaster](https://github.com/ashikurzaman01/polling_And_survey_app)
-
----
-
-### 🚀 Fun Facts
-
-- 🎮 I'm an avid gamer. My favorite game of all time is "The Witcher 3: Wild Hunt".
-- 🎨 Besides coding, I love creating digital art using Adobe Photoshop and Figma.
-- 🌟 My dream project is to develop an interactive storytelling platform for children.
-
----
-
-### 📝 Let's Connect!
-
-If you'd like to collaborate on a project, chat about tech, or just say hello, feel free to reach out:
-
-- 📧 Email: [ashikurzaman774@gmail.com](mailto:ashikurzaman774@gmail.com)
-- 🌐 LinkedIn: [Md. Ashikur Zaman](https://www.linkedin.com/in/md-ashikur-zaman-351769293)
-- 📷 Instagram: [mdashikurzaman001](http://www.instagram.com/mdashikurzaman001)
-- 💻 GitHub: [ashikurzaman01](https://www.github.com/ashikurzaman01)
-
----
-
-### 🎉 Thanks for visiting my profile! Let's create something awesome together! 🚀
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
